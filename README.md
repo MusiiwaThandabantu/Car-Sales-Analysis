@@ -54,7 +54,7 @@ Provided recommendations for improving sales and profitability
 9. Improve inventory planning
 # 5 Tools Used in the Case Study
 1. Data Processing & Analysis
-   - SQL (Snowflake / Databricks / SQL Server / MySQL)
+   - SQL (Databricks)
 2. Data Visualization
    - Microsoft Excel
    - Power BI
